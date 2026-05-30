@@ -66,7 +66,6 @@ Simpan dan load preset konfigurasi untuk berbeda jenis stream.
 |-------|------|-----|
 | Spawn Events | 8 event | ∞ Unlimited |
 | Activities | 8 activity | ∞ Unlimited |
-| Spin Wheel | ✅ | ✅ |
 | Overlay OBS | ✅ | ✅ |
 | Analytics | ✅ | ✅ |
 | Priority Support | ❌ | ✅ |
