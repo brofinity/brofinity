@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/placeholder-logo.png" alt="Brofinity Logo" width="120"/>
+<img src="[https://i.imgur.com/placeholder-logo.png](https://raw.githubusercontent.com/brofinity/brofinity/main/brofinity%20logo.png)" alt="Brofinity Logo" width="120"/>
 
 # BROFINITY
 
