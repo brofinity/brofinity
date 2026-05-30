@@ -43,12 +43,6 @@ Atur berbagai jenis trigger secara fleksibel:
 - Repeat count & cooldown
 - Sound effect per trigger
 
-### 🎰 Spin Wheel Overlay
-Roda putar interaktif yang muncul langsung di OBS / TikTok Studio.
-- Viewer ketik keyword → roda putar otomatis jalan
-- Event acak dipilih → langsung di-spawn di game
-- Animasi keren, background transparan, siap overlay
-
 ### 🎬 Overlay OBS / TikTok Studio
 Semua overlay bisa langsung di-paste sebagai Browser Source:
 - Spin Wheel real-time
@@ -112,17 +106,6 @@ Simpan dan load preset konfigurasi untuk berbeda jenis stream.
 
 ---
 
-## 🎰 Setup Spin Wheel
-
-```
-1. Buka halaman "Spin Wheel" di sidebar
-2. Set keyword trigger (contoh: !spin)
-3. Centang event yang mau masuk roda
-4. Copy link overlay → paste ke OBS Browser Source
-5. Viewer ketik !spin di live → roda putar otomatis!
-```
-
----
 
 ## 🔄 Update App
 
@@ -153,7 +136,6 @@ Temukan bug atau punya ide fitur keren?
 - ✅ Analytics & Activity Log
 - ✅ Save / Load config
 - ✅ FREE & PRO tier
-- ✅ Spin Wheel overlay
 - ✅ Auto update checker
 
 ---
