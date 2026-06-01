@@ -127,7 +127,7 @@ Temukan bug atau punya ide fitur keren?
 
 ## 📋 Changelog
 
-### v1.0.0 — Initial Release
+### v1.0.2 — Initial Release
 - ✅ Spawn Event system
 - ✅ Activity system  
 - ✅ TikTok Live integration
