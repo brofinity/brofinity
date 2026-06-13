@@ -8,7 +8,7 @@
 
 **Ubah gift, follow, dan chat TikTok Live kamu jadi aksi nyata di game favoritmu secara real-time.**
 
-[![Version](https://img.shields.io/badge/version-v1.0.0-c77dff?style=for-the-badge&logo=github)](https://github.com/brofinity/brofinity/releases)
+[![Version](https://img.shields.io/badge/version-v1.1.1-c77dff?style=for-the-badge&logo=github)](https://github.com/brofinity/brofinity/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-00e5ff?style=for-the-badge&logo=windows)](https://github.com/brofinity/brofinity/releases)
 [![TikTok](https://img.shields.io/badge/TikTok-Live-ff3c5c?style=for-the-badge&logo=tiktok)](https://github.com/brofinity/brofinity/releases)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/9axf75vmX)
@@ -127,7 +127,7 @@ Temukan bug atau punya ide fitur keren?
 
 ## 📋 Changelog
 
-### v1.0.4 — Initial Release
+### v1.1.1 — Initial Release
 - ✅ Spawn Event system
 - ✅ Activity system  
 - ✅ TikTok Live integration
