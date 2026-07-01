@@ -11,11 +11,11 @@
 [![Version](https://img.shields.io/badge/version-v1.1.1-c77dff?style=for-the-badge&logo=github)](https://github.com/brofinity/brofinity/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-00e5ff?style=for-the-badge&logo=windows)](https://github.com/brofinity/brofinity/releases)
 [![TikTok](https://img.shields.io/badge/TikTok-Live-ff3c5c?style=for-the-badge&logo=tiktok)](https://github.com/brofinity/brofinity/releases)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/9axf75vmX)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/YRrXtS3QNG)
 
 <br/>
 
-[📥 Download](https://github.com/brofinity/brofinity/releases) · [💬 Discord](https://discord.gg/9axf75vmX) · [🐛 Bug Report](https://discord.gg/9axf75vmX) · [💡 Request Fitur](https://discord.gg/9axf75vmX)
+[📥 Download](https://github.com/brofinity/brofinity/releases) · [💬 Discord](https://discord.gg/YRrXtS3QNG) · [🐛 Bug Report](https://discord.gg/YRrXtS3QNG) · [💡 Request Fitur](https://discord.gg/YRrXtS3QNG)
 
 </div>
 
@@ -150,6 +150,6 @@ App ini tidak berafiliasi dengan TikTok atau publisher game manapun.
 
 **Made with 🔥 for TikTok Live streamers**
 
-[![Discord](https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9axf75vmX)
+[![Discord](https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YRrXtS3QNG)
 
 </div>
