@@ -6,71 +6,71 @@
 
 ### 🎮 TikTok Live — Interactive Game Controller
 
-**Ubah gift, follow, dan chat TikTok Live kamu jadi aksi nyata di game favoritmu secara real-time.**
+**Turn your TikTok Live gifts, follows, and chat into real actions in your favorite game, in real-time.**
 
 [![Version](https://img.shields.io/badge/version-v1.1.1-c77dff?style=for-the-badge&logo=github)](https://github.com/brofinity/brofinity/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-00e5ff?style=for-the-badge&logo=windows)](https://github.com/brofinity/brofinity/releases)
 [![TikTok](https://img.shields.io/badge/TikTok-Live-ff3c5c?style=for-the-badge&logo=tiktok)](https://github.com/brofinity/brofinity/releases)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/YRrXtS3QNG)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord)](https://discord.com/invite/YRrXtS3QNG)
 
 <br/>
 
-[📥 Download](https://github.com/brofinity/brofinity/releases) · [💬 Discord](https://discord.gg/YRrXtS3QNG) · [🐛 Bug Report](https://discord.gg/YRrXtS3QNG) · [💡 Request Fitur](https://discord.gg/YRrXtS3QNG)
+[📥 Download](https://github.com/brofinity/brofinity/releases) · [💬 Discord](https://discord.com/invite/YRrXtS3QNG) · [🐛 Bug Report](https://discord.com/invite/YRrXtS3QNG) · [💡 Feature Request](https://discord.com/invite/YRrXtS3QNG)
 
 </div>
 
 ---
 
-## ✨ Apa itu Brofinity?
+## ✨ What is Brofinity?
 
-Brofinity adalah aplikasi desktop untuk streamer **TikTok Live** yang mengubah interaksi penonton menjadi aksi chaos di dalam game favoritmu secara real-time.
+Brofinity is a desktop app for **TikTok Live** streamers that turns viewer interactions into real-time chaos inside your favorite game.
 
-Viewer kirim gift? **Tank spawn.** Viewer follow? **Helikopter jatuh.** Viewer ketik keyword? **Roda putar jalan.** Semua bisa kamu atur sendiri.
+Viewer sends a gift? **A tank spawns.** Viewer follows? **A helicopter crashes down.** Viewer types a keyword? **The wheel spins.** You control it all.
 
 ---
 
-## 🚀 Fitur Utama
+## 🚀 Key Features
 
 ### ⚡ Spawn Events
-Hubungkan aksi TikTok Live ke event GTA V yang kamu tentukan sendiri.
-- Gift → spawn kendaraan, cuaca, NPC, eksplosif, dan lainnya (GTA V, dll)
-- Follow, Share, Like → trigger event berbeda
-- Custom keyword chat → trigger apapun yang kamu mau
+Connect TikTok Live actions to GTA V events you define yourself.
+- Gift → spawn vehicles, weather, NPCs, explosives, and more (GTA V, etc.)
+- Follow, Share, Like → trigger different events
+- Custom chat keywords → trigger anything you want
 
 ### 🎯 Activity System
-Atur berbagai jenis trigger secara fleksibel:
-- Multi-trigger per event
+Set up different trigger types with full flexibility:
+- Multiple triggers per event
 - Repeat count & cooldown
 - Sound effect per trigger
 
-### 🎬 Overlay OBS / TikTok Studio
-Semua overlay bisa langsung di-paste sebagai Browser Source:
-- Spin Wheel real-time
-- Now Spawning notification
-- Leaderboard viewer
+### 🎬 OBS / TikTok Studio Overlay
+All overlays can be pasted directly as a Browser Source:
+- Real-time Spin Wheel
+- "Now Spawning" notification
+- Viewer leaderboard
 
 ### 📊 Analytics & Activity Log
-Pantau semua aktivitas live kamu secara real-time:
+Track all your live activity in real-time:
 - Gift tracker
 - Spawn history
 - Viewer interaction log
 
 ### 💾 Save / Load Config
-Simpan dan load preset konfigurasi untuk berbeda jenis stream.
+Save and load presets for different stream setups.
 
 ---
 
 ## 🆓 FREE vs ⭐ PRO
 
-| Fitur | FREE | PRO |
+| Feature | FREE | PRO |
 |-------|------|-----|
-| Spawn Events | 8 event | ∞ Unlimited |
-| Activities | 8 activity | ∞ Unlimited |
-| Overlay OBS | ✅ | ✅ |
+| Spawn Events | 8 events | ∞ Unlimited |
+| Activities | 8 activities | ∞ Unlimited |
+| OBS Overlay | ✅ | ✅ |
 | Analytics | ✅ | ✅ |
 | Priority Support | ❌ | ✅ |
 
-> ⭐ Upgrade ke PRO hanya **50 Koin** di dalam app!
+> ⭐ Upgrade to PRO for just **50 Coins** inside the app!
 
 ---
 
@@ -78,50 +78,49 @@ Simpan dan load preset konfigurasi untuk berbeda jenis stream.
 
 ### Requirements
 - Windows 10 / 11 (64-bit)
-- RAM minimal 4GB
+- Minimum 4GB RAM
 - GTA V (Steam / Epic / Rockstar)
-- Koneksi internet stabil
-- Akun TikTok aktif
+- Stable internet connection
+- Active TikTok account
 
-### Cara Install
-1. Download installer terbaru di **[Releases](https://github.com/brofinity/brofinity/releases)**
-2. Jalankan file `.exe` → ikuti proses instalasi
-3. Buka Brofinity → Login dengan akun TikTok
-4. Setup event sesuai keinginan
-5. Mulai live dan nikmati chaos! 🔥
+### Installation Steps
+1. Download the latest installer from **[Releases](https://github.com/brofinity/brofinity/releases)**
+2. Run the `.exe` file → follow the installation steps
+3. Open Brofinity → Log in with your TikTok account
+4. Set up your events however you like
+5. Go live and enjoy the chaos! 🔥
 
 ---
 
-## 🎮 Cara Pakai
+## 🎮 How to Use
 
 ```
-1. Buka Brofinity
-2. Login → Connect ke TikTok Live
-3. Buka halaman "Event" → tambah spawn event
-4. Pilih trigger: Gift / Follow / Like / Chat keyword
-5. Pilih aksi game: spawn kendaraan, cuaca, NPC, dll
-6. Klik "GO LIVE" → mulai streaming!
+1. Open Brofinity
+2. Log in → Connect to TikTok Live
+3. Go to the "Event" page → add a spawn event
+4. Choose a trigger: Gift / Follow / Like / Chat keyword
+5. Choose a game action: spawn vehicle, weather, NPC, etc.
+6. Click "GO LIVE" → start streaming!
 ```
 
 ---
 
+## 🔄 App Updates
 
-## 🔄 Update App
-
-Brofinity akan otomatis memberi notifikasi saat ada versi baru.
-Klik notif → download versi terbaru di halaman Releases.
+Brofinity will automatically notify you when a new version is available.
+Click the notification → download the latest version from the Releases page.
 
 ---
 
-## 🐛 Bug Report & 💡 Feature Request
+## 🐛 Bug Reports & 💡 Feature Requests
 
-Temukan bug atau punya ide fitur keren?
+Found a bug or have a great feature idea?
 
-👉 **[Join Discord Brofinity](https://discord.gg/9axf75vmX)**
+👉 **[Join the Brofinity Discord](https://discord.com/invite/YRrXtS3QNG)**
 
-- `#bug-report` — laporkan bug dengan detail
-- `#feature-request` — usulkan fitur baru
-- `#faq` — pertanyaan umum
+- `#bug-report` — report bugs with details
+- `#feature-request` — suggest new features
+- `#faq` — frequently asked questions
 
 ---
 
@@ -129,9 +128,9 @@ Temukan bug atau punya ide fitur keren?
 
 ### v1.1.1 — Initial Release
 - ✅ Spawn Event system
-- ✅ Activity system  
+- ✅ Activity system
 - ✅ TikTok Live integration
-- ✅ Overlay OBS support
+- ✅ OBS overlay support
 - ✅ Analytics & Activity Log
 - ✅ Save / Load config
 - ✅ FREE & PRO tier
@@ -141,8 +140,8 @@ Temukan bug atau punya ide fitur keren?
 
 ## 📄 License
 
-© 2026 Brofinity. All rights reserved.  
-App ini tidak berafiliasi dengan TikTok atau publisher game manapun.
+© 2026 Brofinity. All rights reserved.
+This app is not affiliated with TikTok or any game publisher.
 
 ---
 
@@ -150,6 +149,6 @@ App ini tidak berafiliasi dengan TikTok atau publisher game manapun.
 
 **Made with 🔥 for TikTok Live streamers**
 
-[![Discord](https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YRrXtS3QNG)
+[![Discord](https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/YRrXtS3QNG)
 
 </div>
