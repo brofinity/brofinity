@@ -70,7 +70,7 @@ Save and load presets for different stream setups.
 | Analytics | ✅ | ✅ |
 | Priority Support | ❌ | ✅ |
 
-> ⭐ Upgrade to PRO for just **50 Coins** inside the app!
+> ⭐ Upgrade to PRO
 
 ---
 
