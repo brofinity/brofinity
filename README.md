@@ -8,7 +8,7 @@
 
 **Turn your TikTok Live gifts, follows, and chat into real actions in your favorite game, in real-time.**
 
-[![Version](https://img.shields.io/badge/version-v1.3.0-c77dff?style=for-the-badge&logo=github)](https://github.com/brofinity/brofinity/releases)
+[![Version](https://img.shields.io/badge/version-v1.3.8-c77dff?style=for-the-badge&logo=github)](https://github.com/brofinity/brofinity/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-00e5ff?style=for-the-badge&logo=windows)](https://github.com/brofinity/brofinity/releases)
 [![TikTok](https://img.shields.io/badge/TikTok-Live-ff3c5c?style=for-the-badge&logo=tiktok)](https://github.com/brofinity/brofinity/releases)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord)](https://discord.com/invite/YRrXtS3QNG)
@@ -81,7 +81,7 @@ Save and load presets for different stream setups.
 - Minimum 4GB RAM
 - GTA V (Steam / Epic / Rockstar)
 - Stable internet connection
-- Active TikTok account
+  
 
 ### Installation Steps
 1. Download the latest installer from **[Releases](https://github.com/brofinity/brofinity/releases)**
@@ -96,7 +96,7 @@ Save and load presets for different stream setups.
 
 ```
 1. Open Brofinity
-2. Log in → Connect to TikTok Live
+2. Connect to TikTok Live
 3. Go to the "Event" page → add a spawn event
 4. Choose a trigger: Gift / Follow / Like / Chat keyword
 5. Choose a game action: spawn vehicle, weather, NPC, etc.
@@ -126,7 +126,7 @@ Found a bug or have a great feature idea?
 
 ## 📋 Changelog
 
-### v1.3.0 — Initial Release
+### v1.3.8 — Initial Release
 - ✅ Spawn Event system
 - ✅ Activity system
 - ✅ TikTok Live integration
